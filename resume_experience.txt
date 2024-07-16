@@ -1,0 +1,66 @@
+## Technician Lvl 4 || Software Technician || 12/2021 - PRESENT
+--
+Aided engineering development to team source code.
+
+● Worked on testing framework creating features aiding the collection of logs, debug data and special
+test cases.
+● Executed tests with different case scenarios and environments successfully.
+● Created sighting of bugs found in the codebase.
+● Keep track of jira tickets for the addition of features and fixes for future and ongoing springs.
+● Aided in the development of robust integration testing to check the sanity of current spring work. 
+● Analyzed and provided support to other teams when required to aid the development of performance environments to run testing on nvme drives.
+● Responsible for writing automation and technical documentation for the team and stakeholders.
+
+## Technician Lvl 3 Lead || Software Technician || 06/2018 - 12/2021
+--
+Provided engineering support in the development of Intel’s 1st Hybrid Optane drive H10 and Intel’s 1st Gen
+4 Datacenter nvme drives.
+
+● Provisioned and maintained driving platforms up to BKC.
+● Contributed to the validation and automation efforts in the development of testing framework.
+● Lead the efforts on tests validation for power and performance that targeted generic and OEM
+firmwares.
+● Developed, maintained and upgraded execution methodologies that allowed the execution team to complete test cases in
+a more robust and efficient matter, while reducing the man hours projected.
+● Created documentation and implemented new BKMs for new projects.
+● Supported the validation efforts of new software and hardware stack tools.
+● Supported engineering taskforces outside of our team which created a global impact in the development of
+various products allowing it to reach PRQ status on schedule.
+
+## Ops Manager || 11/2018 - 06/2019
+--
+As Kelly Ops Manager, strategized and coordinated efforts for the PnP execution team.
+
+● Provided collaborative support to the engineering team in all aspects of Intel SSD firmware validation.
+● Tech team collaborated in the deployed and provisioning of SUTs up to BKC.
+● Prepped firmware DUTs, platform, OSs and equipment.
+● Conducted corrective discipline actions among team and guide them on technical and professional
+expectations.
+● Allocated techs base on skills to completion test up to stands of projects.
+● Managed team budget and payroll.
+
+## Network Administrator || 08/2015 - 02/2016
+--
+Optimized, upgraded and Secured company infrastructure.
+● Collaborated with company departments leaders to upgrade and deploy new services.
+● Updated company domain policies which enforced new standards and trigger a positive network
+performance while reducing internet outages to 99.9%.
+● Increased security to about 70% company wide.
+● Created and deployed disaster recovery and contingency plans.
+● Upgraded and hardened data center systems.
+● Supported 170+ end users.
+● Managed VoIP infrastructure services.
+● Logged network & system performances for review by third-parties for data retention and accounting.
+● Created an image deployment system that standardized the deployment of clients to the
+network.
+● Worked with 3rd party vendors to acquire services and products while maintaining a low budget.
+
+## Lvl 1 Programmer || 02/2014 - 08/2014
+--
+Optimize the company’s IT network infrastructure to be able to test and deploy new environments for pre-production.
+● Adopted new methodologies that allowed testing the codebase before new features or fixes were rolled to
+production.
+● Contributed to the company sales framework.
+● Developed purls that allow clients to make a professional presence online.
+● Segregated company network that assisted the further development efforts of the dev team , security and performance.
+● Created a wireless infrastructure that allowed testing the mobile apps.
